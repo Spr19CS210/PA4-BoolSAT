@@ -1,2 +1,3 @@
 # PA4-BoolSAT-Start
-Starter code for PA4.  See the PA4 writeup in the Writeups repository for the github assignment link.
+Do NOT clone this repository. Use the github classroom link provided in the writuep.
+Starter code for PA4.
